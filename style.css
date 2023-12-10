@@ -17,6 +17,7 @@ body
     background-color: rgb(102, 102, 204);
 }
 h1{
+    padding-top: 10px;
     font-size: 250%;
     text-align: center;
 }
